@@ -1,3 +1,3 @@
 # html-tables
 
-https://practice-web-dev.github.io/html-tables/
+https://practice-front-end-dev.github.io/html-tables/
